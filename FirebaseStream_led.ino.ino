@@ -22,8 +22,8 @@
 
 
 // Set these to run example.
-#define WIFI_SSID "VM7979384"
-#define WIFI_PASSWORD "dzhg7CcFskm5"
+#define WIFI_SSID "wifiSSID"
+#define WIFI_PASSWORD "password"
 
 
 void setup() {
